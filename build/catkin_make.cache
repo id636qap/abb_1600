@@ -1,0 +1,2 @@
+abb_1600_ws_1:abb_1600ws
+-DCATKIN_DEVEL_PREFIX=/home/id636qap/robot/esame/devel -DCMAKE_INSTALL_PREFIX=/home/id636qap/robot/esame/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/id636qap/robot/esame/devel
+
+Name: abb_1600
+Description: Description of abb_1600
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
